@@ -22,6 +22,39 @@
 		4157FFD21FA449ED00EA1D92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4157FFD51FA449ED00EA1D92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4157FFD71FA449ED00EA1D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4157FFDD1FA44A4700EA1D92 /* OptionalVariables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OptionalVariables.playground; sourceTree = "<group>"; };
+		4157FFDE1FA44A4700EA1D92 /* NestedTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NestedTypes.playground; sourceTree = "<group>"; };
+		4157FFDF1FA44A4800EA1D92 /* Enumerations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations.playground; sourceTree = "<group>"; };
+		4157FFE01FA44A4800EA1D92 /* TypeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeCasting.playground; sourceTree = "<group>"; };
+		4157FFE11FA44A4800EA1D92 /* Dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionary.playground; sourceTree = "<group>"; };
+		4157FFE21FA44A4800EA1D92 /* Subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subscripts.playground; sourceTree = "<group>"; };
+		4157FFE31FA44A4800EA1D92 /* WhileLoop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = WhileLoop.playground; sourceTree = "<group>"; };
+		4157FFE41FA44A4800EA1D92 /* Struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Struct.playground; sourceTree = "<group>"; };
+		4157FFE51FA44A4800EA1D92 /* Tuples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tuples.playground; sourceTree = "<group>"; };
+		4157FFE61FA44A4800EA1D92 /* Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Switch.playground; sourceTree = "<group>"; };
+		4157FFE71FA44A4800EA1D92 /* AccessControl.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AccessControl.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4157FFE81FA44A4800EA1D92 /* MethodParameters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MethodParameters.playground; sourceTree = "<group>"; };
+		4157FFE91FA44A4900EA1D92 /* ImplicitExplicitValues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ImplicitExplicitValues.playground; sourceTree = "<group>"; };
+		4157FFEA1FA44A4900EA1D92 /* AliasDataType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AliasDataType.playground; sourceTree = "<group>"; };
+		4157FFEB1FA44A4900EA1D92 /* ForLoop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ForLoop.playground; sourceTree = "<group>"; };
+		4157FFEC1FA44A4900EA1D92 /* Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Inheritance.playground; sourceTree = "<group>"; };
+		4157FFED1FA44A4900EA1D92 /* ConstantVariableValues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConstantVariableValues.playground; sourceTree = "<group>"; };
+		4157FFEE1FA44A4A00EA1D92 /* ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ErrorHandling.playground; sourceTree = "<group>"; };
+		4157FFEF1FA44A4A00EA1D92 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
+		4157FFF01FA44A4A00EA1D92 /* OptionalChaining.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OptionalChaining.playground; sourceTree = "<group>"; };
+		4157FFF11FA44A4A00EA1D92 /* Initializers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Initializers.playground; sourceTree = "<group>"; };
+		4157FFF21FA44A4A00EA1D92 /* Extentions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Extentions.playground; sourceTree = "<group>"; };
+		4157FFF31FA44A4A00EA1D92 /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; };
+		4157FFF41FA44A4B00EA1D92 /* Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Generics.playground; sourceTree = "<group>"; };
+		4157FFF51FA44A4B00EA1D92 /* Methods.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Methods.playground; sourceTree = "<group>"; };
+		4157FFF61FA44A4B00EA1D92 /* Deinitialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Deinitialization.playground; sourceTree = "<group>"; };
+		4157FFF71FA44A4B00EA1D92 /* Class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Class.playground; sourceTree = "<group>"; };
+		4157FFF81FA44A4C00EA1D92 /* Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Operators.playground; sourceTree = "<group>"; };
+		4157FFF91FA44A4C00EA1D92 /* Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocols.playground; sourceTree = "<group>"; };
+		4157FFFA1FA44A4C00EA1D92 /* Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closures.playground; sourceTree = "<group>"; };
+		4157FFFB1FA44A4D00EA1D92 /* BasicDataTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicDataTypes.playground; sourceTree = "<group>"; };
+		4157FFFC1FA44A4E00EA1D92 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		4157FFFD1FA44A4E00EA1D92 /* Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Properties.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +92,39 @@
 				4157FFCF1FA449ED00EA1D92 /* Main.storyboard */,
 				4157FFD21FA449ED00EA1D92 /* Assets.xcassets */,
 				4157FFD41FA449ED00EA1D92 /* LaunchScreen.storyboard */,
+				4157FFED1FA44A4900EA1D92 /* ConstantVariableValues.playground */,
+				4157FFE91FA44A4900EA1D92 /* ImplicitExplicitValues.playground */,
+				4157FFFB1FA44A4D00EA1D92 /* BasicDataTypes.playground */,
+				4157FFEA1FA44A4900EA1D92 /* AliasDataType.playground */,
+				4157FFFA1FA44A4C00EA1D92 /* Closures.playground */,
+				4157FFEF1FA44A4A00EA1D92 /* Functions.playground */,
+				4157FFF31FA44A4A00EA1D92 /* Array.playground */,
+				4157FFE11FA44A4800EA1D92 /* Dictionary.playground */,
+				4157FFE51FA44A4800EA1D92 /* Tuples.playground */,
+				4157FFDD1FA44A4700EA1D92 /* OptionalVariables.playground */,
+				4157FFF81FA44A4C00EA1D92 /* Operators.playground */,
+				4157FFE31FA44A4800EA1D92 /* WhileLoop.playground */,
+				4157FFEB1FA44A4900EA1D92 /* ForLoop.playground */,
+				4157FFE61FA44A4800EA1D92 /* Switch.playground */,
+				4157FFDF1FA44A4800EA1D92 /* Enumerations.playground */,
+				4157FFE41FA44A4800EA1D92 /* Struct.playground */,
+				4157FFF71FA44A4B00EA1D92 /* Class.playground */,
+				4157FFF11FA44A4A00EA1D92 /* Initializers.playground */,
+				4157FFF61FA44A4B00EA1D92 /* Deinitialization.playground */,
+				4157FFEC1FA44A4900EA1D92 /* Inheritance.playground */,
+				4157FFFD1FA44A4E00EA1D92 /* Properties.playground */,
+				4157FFF51FA44A4B00EA1D92 /* Methods.playground */,
+				4157FFF91FA44A4C00EA1D92 /* Protocols.playground */,
+				4157FFE21FA44A4800EA1D92 /* Subscripts.playground */,
+				4157FFF21FA44A4A00EA1D92 /* Extentions.playground */,
+				4157FFF01FA44A4A00EA1D92 /* OptionalChaining.playground */,
+				4157FFE01FA44A4800EA1D92 /* TypeCasting.playground */,
+				4157FFF41FA44A4B00EA1D92 /* Generics.playground */,
+				4157FFE81FA44A4800EA1D92 /* MethodParameters.playground */,
+				4157FFDE1FA44A4700EA1D92 /* NestedTypes.playground */,
+				4157FFE71FA44A4800EA1D92 /* AccessControl.playground */,
+				4157FFEE1FA44A4A00EA1D92 /* ErrorHandling.playground */,
+				4157FFFC1FA44A4E00EA1D92 /* MyPlayground.playground */,
 				4157FFD71FA449ED00EA1D92 /* Info.plist */,
 			);
 			path = SwiftPlaygrounds;
